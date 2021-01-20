@@ -1,0 +1,60 @@
+{"message":"data and salt arguments required","level":"error"}
+{"message":"UserService.findbyEmail is not a function","level":"error"}
+{"message":"UserService.findByEmail is not a function","level":"error"}
+{"message":"Cannot read property 'slice' of undefined","level":"error"}
+{"message":"Unexpected token I in JSON at position 0","level":"error"}
+{"message":"Unexpected token d in JSON at position 0","level":"error"}
+{"message":"UserService.decryptToken is not a function","level":"error"}
+{"message":"Cannot read property 'email' of undefined","level":"error"}
+{"message":"Cannot read property 'email' of undefined","level":"error"}
+{"message":"UserService.getSavedRecipes is not a function","level":"error"}
+{"message":"hashedPass is not defined","level":"error"}
+{"message":"Unauthorized request to: /api/users/login","level":"error"}
+{"message":"Unauthorized request to: /","level":"error"}
+{"message":"Undefined binding(s) detected when compiling FIRST. Undefined column(s): [id] query: select * from \"users\" where \"id\" = ? limit ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling FIRST. Undefined column(s): [id] query: select * from \"users\" where \"id\" = ? limit ?","level":"error"}
+{"message":"select * from \"users\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"{\"user\":\"2\"}\"","level":"error"}
+{"message":"select * from \"users\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"{\"user\":\"2\"}\"","level":"error"}
+{"message":"UserService.getSavedRecipes is not a function","level":"error"}
+{"message":"UserService.getSavedRecipes is not a function","level":"error"}
+{"message":"UserService.getSavedRecipes is not a function","level":"error"}
+{"message":"UserService.getSavedRecipes is not a function","level":"error"}
+{"message":"UserService.getSavedRecipes is not a function","level":"error"}
+{"message":"Cannot read property 'split' of undefined","level":"error"}
+{"message":"ingredientsArray is not defined","level":"error"}
+{"message":"RecipeService.getFullRecipes is not a function","level":"error"}
+{"message":"searchResults.map is not a function","level":"error"}
+{"message":"searchResults.map is not a function","level":"error"}
+{"message":"Cannot read property 'analyzedInstructions' of undefined","level":"error"}
+{"message":"Cannot read property 'analyzedInstructions' of undefined","level":"error"}
+{"message":"Cannot read property 'app' of undefined","level":"error"}
+{"message":"Cannot read property 'app' of undefined","level":"error"}
+{"message":"Cannot read property 'app' of undefined","level":"error"}
+{"message":"Request failed with status code 400","level":"error"}
+{"message":"Request failed with status code 400","level":"error"}
+{"message":"Unexpected token \" in JSON at position 0","level":"error"}
+{"message":"Unexpected string in JSON at position 52","level":"error"}
+{"message":"Request failed with status code 400","level":"error"}
+{"message":"Unexpected token \" in JSON at position 0","level":"error"}
+{"message":"Unexpected token \" in JSON at position 0","level":"error"}
+{"message":"bookmarkToUpdate is not defined","level":"error"}
+{"message":"Request failed with status code 400","level":"error"}
+{"message":"Request failed with status code 400","level":"error"}
+{"message":"Request failed with status code 400","level":"error"}
+{"message":"results.map is not a function","level":"error"}
+{"message":"results.map is not a function","level":"error"}
+{"message":"info is not defined","level":"error"}
+{"message":"results.map is not a function","level":"error"}
+{"message":"results.map is not a function","level":"error"}
+{"message":"Cannot read property '0' of undefined","level":"error"}
+{"message":"Cannot read property '0' of undefined","level":"error"}
+{"message":"knex.insert(...).into(...).returning(...).then(...).onConflict is not a function","level":"error"}
+{"message":"Request failed with status code 524","level":"error"}
+{"message":"Request failed with status code 524","level":"error"}
+{"message":"Request failed with status code 524","level":"error"}
+{"message":"Request failed with status code 524","level":"error"}
+{"message":"url is not defined","level":"error"}
+{"message":"Cannot read property 'map' of undefined","level":"error"}
+{"message":"searchResults.map is not a function","level":"error"}
+{"message":"results.map is not a function","level":"error"}
+{"message":"Cannot read property 'map' of undefined","level":"error"}
